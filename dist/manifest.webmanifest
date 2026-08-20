@@ -1,0 +1,19 @@
+{
+    "name": "Treasure Sudoku",
+    "short_name": "Treasure Sudoku",
+    "description": "Treasure Sudoku - a pirate themed logic puzzle game",
+    "start_url": ".",
+    "scope": ".",
+    "display": "standalone",
+    "orientation": "portrait",
+    "background_color": "#1a3a5c",
+    "theme_color": "#1a3a5c",
+    "icons": [
+        {
+            "src": "icon.svg",
+            "sizes": "any",
+            "type": "image/svg+xml",
+            "purpose": "any"
+        }
+    ]
+}
